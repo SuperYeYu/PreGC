@@ -27,7 +27,7 @@ For example:
 python emb_init.py --dataset cora --reduction_rate 0.25
 ```
 
-**2.** Although PreGC does not rely on task labels during the condensation process, the calculation of the condensation ratio still adheres to the configuration established in existing GC methods. For instance, in the case of the <u>PubMed</u> dataset, the ratio is calculated as $0.25×60/19717 ≈ 0.08\%$.
+**2.** Although PreGC does not rely on task labels during the condensation process, the calculation of the condensation ratio still adheres to the configuration established in existing GC methods. For instance, in the case of the <u>PubMed</u> dataset, the ratio is calculated as $0.25×60/19717 ≈ 0.08$%.
 
 
 
