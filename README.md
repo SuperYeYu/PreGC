@@ -1,5 +1,7 @@
 # Towards Pre-trained Graph Condensation via Optimal Transport
 
+![Pre-trained Graph Condensation](./PreGC2.png)
+
 ## Environment Settings
 
 > python=3.11.5
