@@ -38,4 +38,4 @@ python emb_init.py --dataset cora --reduction_rate 0.25
 > 3. The final condensed graph can be found in the `output` directory.
 
 
-![Pre-trained Graph Condensation](./pregc.png)
+![Pre-trained Graph Condensation](./PreGC.png)
