@@ -37,3 +37,5 @@ python emb_init.py --dataset cora --reduction_rate 0.25
 > 2. If the condensation ratio or dataset is to be altered, careful tuning of the hyperparameters within the `config_init.json` file is paramount, as it is critical for the performance of PreGC.
 > 3. The final condensed graph can be found in the `output` directory.
 
+
+![Pre-trained Graph Condensation](./pregc.png)
